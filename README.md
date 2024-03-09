@@ -15,7 +15,7 @@ Waves come in sets of 2, where each set has a consistent incoming attack speed. 
 
 Players receive bonus points for each remaining city. Each wave set has an associated bonus point multiple, starting at 1 and increasing to 6 at wave 11. A bonus/extra city is rewarded for every 7000 points scored.
 
-Play continues until all cities have been destroyed and the player has no extra cities banked up. If you get a new high score, you will a notice at the end of game play and the ‘Hi-Score’ will be updated, so try to beat your high score!
+Play continues until all cities have been destroyed and the player has no extra cities banked up. If you get a new high score, you will get a notice at the end of game play and the ‘Hi-Score’ will be updated, so try to beat your high score!
 
 ### Controls 
 Use the mouse to potion the targeting reticle on the screen and press `A`, `S`, or `D` to fire an anti-missile from the corresponding tower (from left to right)
