@@ -70,15 +70,4 @@ class Enemy:
         if pygame.time.get_ticks() - self.t1 > 2000: #+ jitter:
             self.fire_missile()
             self.t1 = pygame.time.get_ticks()
-
-
-
-
-
-
-
-
-
-
-
-#
+#eof
